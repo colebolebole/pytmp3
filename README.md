@@ -13,4 +13,4 @@ pip install pytube
 
 git clone this repo "git clone https://github.com/colebolebole/pytmp3.git"
 
-or download the desktop app (coming soon)
+(NEW) or download the desktop app: https://github.com/colebolebole/pytmp3/releases/download/pytmp3/pytmp3.zip
